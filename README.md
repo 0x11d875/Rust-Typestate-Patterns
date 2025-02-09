@@ -14,9 +14,8 @@ file for easier maintenance, debugging and error correction.
 
 ## Quick Start
 
-Add [typestate] to your Cargo.toml file, examples can be found [here].
+Add typestate to your Cargo.toml file, examples can be found [here].
 
-[typestate]: link/to/crates/io/typestate
 [here]: examples/
 
 ## Examples
